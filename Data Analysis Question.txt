@@ -1,0 +1,5 @@
+1.  Which platform generates the highest total revenue?
+2.  Which product category has the highest sales volume and revenue?
+3. Is there a relationship between product rating and total sales?
+4.  Which city contributes the highest revenue?
+5.  What is the monthly sales trend?
